@@ -125,7 +125,21 @@ Potential next steps include:
 - Evaluate model performance using MAE, RMSE, and R-squared.
 - Investigate interactions between smoking status, BMI, and age.
 - Explore high-cost outliers in greater detail.
-- Compare multiple regression algorithms and feature-engineering approaches.
+- Compare multiple regression algorithms and feature-engineering approaches.  
+
+## Learning and AI Assistance
+
+This project was completed as part of the **Codecademy Data Scientist / Data Analytics learning path**, using the *U.S. Medical Insurance Costs* portfolio project as the project framework.
+
+AI assistance was used as a learning and productivity tool to support:
+
+- Structuring the exploratory data analysis workflow
+- Clarifying Python, pandas, and Matplotlib concepts
+- Troubleshooting errors and interpreting code output
+- Improving notebook organization, code comments, documentation, and README structure
+- Reviewing the clarity and accuracy of written findings
+
+All data exploration, code execution, validation, chart creation, result review, and final project decisions were completed and checked by me.
 
 ## Author
 
