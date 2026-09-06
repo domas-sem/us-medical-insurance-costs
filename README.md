@@ -122,7 +122,6 @@ Because the four- and five-children groups contain fewer observations, those ave
 Potential next steps include:
 
 - Build a regression model to estimate insurance charges.
-- Evaluate model performance using MAE, RMSE, and R-squared.
 - Investigate interactions between smoking status, BMI, and age.
 - Explore high-cost outliers in greater detail.
 - Compare multiple regression algorithms and feature-engineering approaches.  
