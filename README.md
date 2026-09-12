@@ -143,6 +143,6 @@ All data exploration, code execution, validation, chart creation, result review,
 ## Author
 
 **Domas Semenauskas**  
-Aspiring Data Analyst | Python, SQL, Power BI, Snowflake
+Junior Data Analyst | Python, SQL, Power BI, Snowflake
 
 [GitHub Profile](https://github.com/domas-sem)
