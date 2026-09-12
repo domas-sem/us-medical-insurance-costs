@@ -52,6 +52,7 @@ I removed the duplicate record, resulting in a cleaned dataset containing **1,33
 - pandas
 - Matplotlib
 - Jupyter Notebook
+- Perplexity AI
 
 ### Skills Demonstrated
 
